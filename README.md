@@ -1,5 +1,8 @@
 # 💫 About Me:
-🎯 Who Am I?<br>Hi, I’m Ihsan Uddin Khan — a self-taught Full Stack Developer from Bangladesh. I love building clean, scalable solutions with a focus on performance, DevOps, and simplicity.<br><br>Beyond coding, I’m passionate about bike rides, touring new places, listening to Bangla folk music, and cooking spicy dishes. 🔥
+ Who Am I?**
+Hey, I’m Ihsan Uddin Khan — a self-taught Full Stack Developer from Bangladesh who enjoys building clean, scalable, and performance-driven digital solutions. I'm passionate about clean code, DevOps automation, and exploring technologies that make life easier for developers and users alike.
+
+When I’m not coding, I’m probably out on my bike, riding through new places, chasing horizons, and soaking in the beauty of the open road. I’m also a big fan of Bangla folk music and love experimenting with spicy dishes in the kitchen. 🔥
 <!--
 **ihsanuddin637/ihsanuddin637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
