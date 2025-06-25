@@ -1,25 +1,11 @@
+##<img src="https://github.com/ihsanuddin637/ihsanuddin637/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png">
+
 # 💫 About Me:
 🎯Who Am I?
 
 Hey, I’m Ihsan Uddin Khan — a self-taught Full Stack Developer from Bangladesh who enjoys building clean, scalable, and performance-driven digital solutions. I'm passionate about clean code, DevOps automation, and exploring technologies that make life easier for developers and users alike.
 
 When I’m not coding, I’m probably out on my bike, riding through new places, chasing horizons, and soaking in the beauty of the open road. I’m also a big fan of Bangla folk music and love experimenting with spicy dishes in the kitchen. 🔥
-<!--
-**ihsanuddin637/ihsanuddin637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://github.com/ihsanuddin637/ihsanuddin637/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theihsanuddin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsan-uddin) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ihsanuddindev) 
