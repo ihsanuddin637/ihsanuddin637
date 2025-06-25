@@ -1,5 +1,5 @@
 # 💫 About Me:
- Who Am I?**
+🎯Who Am I?**
 Hey, I’m Ihsan Uddin Khan — a self-taught Full Stack Developer from Bangladesh who enjoys building clean, scalable, and performance-driven digital solutions. I'm passionate about clean code, DevOps automation, and exploring technologies that make life easier for developers and users alike.
 
 When I’m not coding, I’m probably out on my bike, riding through new places, chasing horizons, and soaking in the beauty of the open road. I’m also a big fan of Bangla folk music and love experimenting with spicy dishes in the kitchen. 🔥
