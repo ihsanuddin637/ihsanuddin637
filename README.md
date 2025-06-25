@@ -1,4 +1,4 @@
-##<img src="https://github.com/ihsanuddin637/ihsanuddin637/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png">
+<img src="https://github.com/ihsanuddin637/ihsanuddin637/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png">
 
 # 💫 About Me:
 🎯Who Am I?
